@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work on Leegu&#39;s Work</title>
-    <link>https://yuanli97.github.io/work/</link>
+    <link>https://leo-gu.com/work/</link>
     <description>Recent content in Work on Leegu&#39;s Work</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 27 Jan 2021 11:19:43 +0800</lastBuildDate><atom:link href="https://yuanli97.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jan 2021 11:19:43 +0800</lastBuildDate><atom:link href="https://leo-gu.com/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shopee Design Challenge</title>
-      <link>https://yuanli97.github.io/work/page1/</link>
+      <link>https://leo-gu.com/work/page1/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yuanli97.github.io/work/page1/</guid>
+      <guid>https://leo-gu.com/work/page1/</guid>
       <description>Shopee Design Test (APP设计改版)  Date: September, 2020 Contributor: Yuanli Gu Type: Practice
    9月时参加Shopee Singapore校招做的一份design challenge，虽然最后没有如愿走完所有面试流程，但依然从中领悟/磨练了从调研到设计方案构思再到最后输出设计稿的技能和方法。
 附件离线预览：Shopee Design Process.pdf
@@ -21,12 +21,34 @@
     </item>
     
     <item>
-      <title>Page2</title>
-      <link>https://yuanli97.github.io/work/page2/</link>
-      <pubDate>Wed, 27 Jan 2021 11:17:52 +0800</pubDate>
+      <title>Click AI</title>
+      <link>https://leo-gu.com/work/page2/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yuanli97.github.io/work/page2/</guid>
-      <description></description>
+      <guid>https://leo-gu.com/work/page2/</guid>
+      <description>00 Background    01 Research  In China, the IT companies are now the most competitive strength. Its growth, which is usually compared with American companies, is now a symbol power. In this case, more and more people pay close attention to it and it is becoming a platform for various countries to compete with each other.
+Thanks to its rapid development and importance in countries’ power, thousands of posts are created.</description>
+    </item>
+    
+    <item>
+      <title>网易云音乐交互分析</title>
+      <link>https://leo-gu.com/work/page3/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://leo-gu.com/work/page3/</guid>
+      <description>首次发布于UI中国：https://www.ui.cn/detail/555421.html?nopop=1
+        2020/12/16 Updates: 网易云音乐在今日发布更新，已将播放器入口从右上角移置屏幕下方（该问题在本人场景一的交互走查中已指出），展示【播放/暂停】按钮和【详细歌单】按钮，支持左右滑动切歌，与QQ音乐的播放器入口设计一致。 进一步改版建议：1. 网易云现在视觉上的层次感过于单一，仅用分割线/分隔栏作为层级分类的视觉工具：可以考虑使用投影、背景模糊等效果强化产品的层次感。2. 推荐歌单的图片和文字在视觉上不够吸睛，用户很难第一时间抓到核心信息：可以考虑放大图片尺寸，调整文字的字重和字符大小，规范文字长度限制。
+ 网易云音乐首页设计
+ QQ音乐首页设计</description>
+    </item>
+    
+    <item>
+      <title>Reboot (Mobile APP Design)</title>
+      <link>https://leo-gu.com/work/page4/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://leo-gu.com/work/page4/</guid>
+      <description>Inspiration I was inspired by an elder female friend who was passionate about restarting her career after staying at home taking care of her husband and son for more than 5 years. Then, I did some more detailed research and I found out that there are many Chinese housewives who wished to return to the workplace. Also, the society does need more labor force to meet the demand for economic development.</description>
     </item>
     
   </channel>
