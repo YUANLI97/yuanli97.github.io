@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Leegu&#39;s Work</title>
+    <title>Homepage on Leegu&#39;s Website</title>
     <link>https://leo-gu.com/</link>
-    <description>Recent content in Homepage on Leegu&#39;s Work</description>
+    <description>Recent content in Homepage on Leegu&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 27 Jan 2021 11:19:43 +0800</lastBuildDate><atom:link href="https://leo-gu.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -21,21 +21,11 @@
     </item>
     
     <item>
-      <title>Click AI</title>
-      <link>https://leo-gu.com/work/page2/</link>
-      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://leo-gu.com/work/page2/</guid>
-      <description>00 Background    01 Research  In China, the IT companies are now the most competitive strength. Its growth, which is usually compared with American companies, is now a symbol power. In this case, more and more people pay close attention to it and it is becoming a platform for various countries to compete with each other.
-Thanks to its rapid development and importance in countries’ power, thousands of posts are created.</description>
-    </item>
-    
-    <item>
       <title>网易云音乐交互分析</title>
-      <link>https://leo-gu.com/work/page3/</link>
+      <link>https://leo-gu.com/work/page2/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://leo-gu.com/work/page3/</guid>
+      <guid>https://leo-gu.com/work/page2/</guid>
       <description>首次发布于UI中国：https://www.ui.cn/detail/555421.html?nopop=1
         2020/12/16 Updates: 网易云音乐在今日发布更新，已将播放器入口从右上角移置屏幕下方（该问题在本人场景一的交互走查中已指出），展示【播放/暂停】按钮和【详细歌单】按钮，支持左右滑动切歌，与QQ音乐的播放器入口设计一致。 进一步改版建议：1. 网易云现在视觉上的层次感过于单一，仅用分割线/分隔栏作为层级分类的视觉工具：可以考虑使用投影、背景模糊等效果强化产品的层次感。2. 推荐歌单的图片和文字在视觉上不够吸睛，用户很难第一时间抓到核心信息：可以考虑放大图片尺寸，调整文字的字重和字符大小，规范文字长度限制。
  网易云音乐首页设计
@@ -43,12 +33,45 @@ Thanks to its rapid development and importance in countries’ power, thousands 
     </item>
     
     <item>
+      <title>Click AI（人工智能技术展馆）</title>
+      <link>https://leo-gu.com/work/page3/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://leo-gu.com/work/page3/</guid>
+      <description>00 Background    01 Research  In China, the IT companies are now the most competitive strength. Its growth, which is usually compared with American companies, is now a symbol power. In this case, more and more people pay close attention to it and it is becoming a platform for various countries to compete with each other.
+Thanks to its rapid development and importance in countries’ power, thousands of posts are created.</description>
+    </item>
+    
+    <item>
       <title>Reboot (Mobile APP Design)</title>
       <link>https://leo-gu.com/work/page4/</link>
-      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://leo-gu.com/work/page4/</guid>
       <description>Inspiration I was inspired by an elder female friend who was passionate about restarting her career after staying at home taking care of her husband and son for more than 5 years. Then, I did some more detailed research and I found out that there are many Chinese housewives who wished to return to the workplace. Also, the society does need more labor force to meet the demand for economic development.</description>
+    </item>
+    
+    <item>
+      <title>Gymate重力运动（创业项目）</title>
+      <link>https://leo-gu.com/work/page5/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://leo-gu.com/work/page5/</guid>
+      <description>00 概览 团队分工  铭亨&amp;amp;我：产品
+韩蓉：产品&amp;amp;运营
+楚仪&amp;amp;Richard：开发
+ 我作为创始人&amp;amp;产品设计师，主要负责：
+ 确定产品方向&amp;amp;功能细节，收集整理用户反馈 产品的交互设计，并支持开发团队输出规范设计稿和交互文档 日常运营推广的设计和推文  项目简介 作为项目创始人和初期推动者，铭亨和我都是健身爱好者。大学时期，我们往返于香港和深圳，也对两地的健身房文化、条件颇有了解。出于对健身的热爱，以及对于当前健身市场私教课程定价高奢化风气的不满，我们构想了一套我们的健身课程运营模式，并设计了Gymate，希望能给市场引入新鲜血液，击破当前高价健身私教课的消费陷阱。
+我们团队在香港数码港大湾区青年创业计划的帮助下拿到了10万港币的起始资金，并用于项目调研、设计&amp;amp;开发。我们设计了Gymate这个移动产品，为有经验的健身爱好者和健身小白创造一个匹配平台，让有经验的爱好者能够通过兼职的方式指引健身小白科学锻炼。「Gymate」平台目前已上线微信小程序。  小程序码
+ 公众号二维码
+亮点 我们认为Gymate产品主要有以下主打特色： 针对健身学员：
+ 降低健身私教价格，吸引全民健身 智能算法推荐&amp;amp;匹配，省去挑选教练的时间 平台背书，兼职教练更可信 健身进度跟踪，提供健身成就感  针对健身达人/兼职教练：
+ 充分利用自身健身经验 随考核&amp;amp;经验上升的课程费用 灵活安排健身辅导时间  研发流程 总体来说，我们通过调研，细化分析现象背后的具体问题，并根据问题整理提出我们的解决方案。在设计稿定稿前，我们也对产品的解决方案进行了多次评审，逐步优化了【教练日程安排】、【健身进度跟踪】、【课后反馈】等核心功能。然而，在还未进行小面积的用户测试时，我们就选择了进入开发阶段。
+缺少用户测试&amp;amp;有效迭代 在整个研发链路上，由于我们缺乏项目管理实战经验，所以并没有在设计阶段做一些有效的用户测试，而这也巨大地提高了我们的研发成本。在完成了第一轮的开发后，我们招募到一群有兴趣的小伙伴来协助我们做产品设计&amp;amp;运营的工作；在他们试用的前两天，便反馈了许多我们在之前设计时没考虑到的问题。而这也就给我们负责人们提出了第一个大难题：
+ 回炉开发，还是硬着头皮上？  01 立项&amp;amp;调研 立项初期，我与铭亨除了总结自己在健身时遇到的问题之外，也统计调查了身边的健身爱好者们对于健身教练的态度。为确保我们的产品能有更广大的受众，我们选择「那些想尝试健身却没有坚持下来的人」作为我们的调研用户，通过问卷调查、焦点访谈等方式发掘用户需求，寻找突破点。通过调研我们总结了以下的问题：
+ 高额健身私教费用 教练水平参差不齐 独自健身缺乏正向反馈 网络健身教程缺少定制化内容  竞品分析  直接竞品(健身行业，同一纬度)：老虎教练 间接竞品(健身行业，不同纬度)：Keep(大赛道，居家健身)，SuperMonkey(O2O, 莱美健身课)  02 设计  更新中&amp;hellip;
+ 03 开发  更新中&amp;hellip;
+ 04 推广 回炉还是硬上 如「概览」中所介绍，我们的项目的产品在缺少了一个关键的环节——用户测试，尤其是产品设计阶段能高效、低成本优化产品的用户测试。在后期收到新伙伴们的各种反馈后，我们陷入了一个两难的境地：【二期开发完成后再推产品】还是【先推产品再慢慢迭代】。</description>
     </item>
     
     <item>
